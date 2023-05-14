@@ -24,3 +24,8 @@ Getting Started
 4. Build and run the sample.
 
 All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
+
+
+
+
+https://stackoverflow.com/questions/2239330/how-to-increase-storage-for-android-emulator-install-failed-insufficient-stora
